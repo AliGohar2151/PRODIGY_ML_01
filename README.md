@@ -18,6 +18,7 @@ This project demonstrates a simple linear regression model to predict house pric
 - Python 3.x
 - Jupyter Notebook
 - Required Python libraries: `pandas`, `scikit-learn`
+- Dataset : https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
 ## Installation
 
